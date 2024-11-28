@@ -127,7 +127,7 @@ function MainAdminLayout(){
                             <Menu/>
                         </IconButton>
                         <Typography variant='h6' component='div'>
-                            Admin Panel of IDK yet
+                            Admin Panel 
                         </Typography>
                     </Toolbar>
                 </AppBar>

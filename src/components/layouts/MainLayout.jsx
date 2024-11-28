@@ -146,7 +146,7 @@ function MainLayout(){
                     <Toolbar sx={{display: 'flex', flexDirection: 'row' ,gap: 2}}>
                         <Typography sx={{flex: 1, textDecoration:'none'}} variant='h6' component='div'>
                             <Link to="../" style={{textDecoration: 'none', color: 'white'}}>
-                                E-Commerce Website na Bulok
+                                E-Commerce 
                             </Link>
                         </Typography>
 
@@ -348,7 +348,7 @@ function MainLayout(){
                                     bgcolor="#3079e6"
                                     sx={{flex: 1, textAlign:'center',color: 'white',p: 2, width: '100%'}}
                                 >
-                                    Login NOW!!!!!!!@!@112123
+                                    Login 
                                     
                                 </Typography>
                                 {/* Box for login */}
